@@ -52,8 +52,6 @@ This provides environment resource recommendations with a view of the infrastruc
 
 ![Mojaloop Deployment Recommendations - Infrastructure Architecture](./assets/diagrams/deployment/KubeInfrastructureArch.svg)
 
-#### 1.2 Local Deployment and Testing Tools
-
 ### 1.2 Local Deployment and Testing Tools
 
 The tool set to be deployed as part of the deployment process.
